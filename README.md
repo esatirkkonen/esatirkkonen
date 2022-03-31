@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Esa Tirkkonen aka EscoBar
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Esa Tirkkonen aka 'EscoBar'
+- 👀 I’m interested in coding, ethical hacking and web development
+- 🌱 I’m currently learning python, Azure and ethical hacking.
 - 📫 You can reach me esatirkkonen73@gmail.com
 
 <!---
